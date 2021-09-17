@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 ## Overview of the school district analysis: 
 The school board discovered that Thomas High School 9th grade math and reading scores were compromised. Hence the school district student performance analysis needed to be reanalyzed without 9th grade scores from Thomas High School. The 9th grade scores from Thomas High School is overwritten with NaNs and data analysis was performed again. 
 
@@ -13,7 +13,7 @@ Below are summary of results after Thomas High School's 9th grade math and readi
  
 ### Thomas High School Summary
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-* Thomas High School remained top school with ~91% overall passing percentage before and after the updates.
+* Thomas High School remained top school with ~91% overall passing percentage before and after replacing Thomas High School’s  ninth graders’ math and reading scores.
 ![myimage-alt-tag](/Resources/TopSchools-After.png)
  After the ninth grader's math and reading scores are replaced for Thomas High School, the overall percentage impacted significatly.
     * Prior Thomas High School Summary  
