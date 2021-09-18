@@ -21,16 +21,16 @@ Below are summary of results after Thomas High School's 9th grade math and readi
     * Updated Thomas High School Summary 
 ![myimage-alt-tag](/Resources/THS_Summary-After.png)
 
-* How does replacing the ninth-grade scores affect the following:
-    * Replacing the ninth-grade scores had no impact to any of following metrics 
-     
+* Replacing the ninth-grade scores had no impact to any of following metrics 
     * Math Scores by Grade remained unchanged.
      ![myimage-alt-tag](/Resources/MathScoresByGrade.png)
-    * Reading Scores by Grade was not affected
+     
+    * Reading Scores by Grade was not affected besides Thomas High School 9th graders' reading score
      ![myimage-alt-tag](/Resources/ReadingScoresByGrade.png)
-          
+   
     * Scores by school spending was not impacted. 
     ![myimage-alt-tag](/Resources/ScoresBySpending.png)
+    
     * Scores by school size did not change. 
     ![myimage-alt-tag](/Resources/ScoresBySchoolSize.png)
 
